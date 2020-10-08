@@ -3,7 +3,6 @@
 Application creates an app that writes, saves, deletes notes you have written into the app. Start with a home page asking you to get started.
 
 
-## Images 
 <img src= "image/start.png" width="800">
 <img src= "image/buttons.png" width="800">
 <img src= "image/save.png" width="800">
