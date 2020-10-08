@@ -2,10 +2,10 @@
 
 Application creates an app that writes, saves, deletes notes you have written into the app. Start with a home page asking you to get started.
 
-
-<img src= "image/start.png" width="800">
-<img src= "image/buttons.png" width="800">
-<img src= "image/save.png" width="800">
+## Images
+<img src= "images/start.png" width="800">
+<img src= "images/buttons.png" width="800">
+<img src= "images/save.png" width="800">
 
 
 # Unit 11 Express Homework: Note Taker
