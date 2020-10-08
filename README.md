@@ -13,6 +13,13 @@ https://github.com/Mattmoe1/Note_Taker
 <img src= "images/buttons.png" width="800">
 <img src= "images/save.png" width="800">
 
+## Adding to your personal Heroku account
+
+To add onto your own Heroku go to terminal in the code and type:
+1) heroku login
+2) heroku create
+3) git push heroku main 
+    *use to be master but has been changed to main, so if main doesn't work try master
 
 # Unit 11 Express Homework: Note Taker
 
