@@ -1,6 +1,6 @@
 # Note_Taker
 
-Application creates an app that writes, saves, deletes notes you have written. First the App brings you to the home page which asks you to get started. Then It birngs you to the Note section.
+Application creates an app that writes, saves, deletes notes you have written. First the App brings you to the home page which asks you to get started. Then It brings you to the Note section.
 
 ## Images
 <img src= "images/start.png" width="800">
