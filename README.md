@@ -2,6 +2,12 @@
 
 Application creates an app that writes, saves, deletes notes you have written. First the App brings you to the home page which asks you to get started. Then It brings you to the Note section.
 
+## App and Code
+
+https://arcane-atoll-79587.herokuapp.com/
+
+https://github.com/Mattmoe1/Note_Taker
+
 ## Images
 <img src= "images/start.png" width="800">
 <img src= "images/buttons.png" width="800">
